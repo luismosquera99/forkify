@@ -18,7 +18,7 @@ Forkify is a web application that allows users to search for recipes, view detai
 1. Clone this repository to your local machine.
 2. Install Node.js and npm if you haven't already.
 3. Run `npm install` to install project dependencies.
-4. Create a `.env` file with your API keys (e.g., Spoonacular API key).
+4. Create a `.env` file with your API keys (e.g., Forkify API key).
 5. Run `npm start` to start the development server.
 
 ## Usage
